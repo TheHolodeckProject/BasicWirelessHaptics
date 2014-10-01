@@ -1,0 +1,1 @@
+"./MSP430F55xx_1.obj" "../lnk_msp430f5510.cmd" -l"libc.a" -l"libmath.a" 
