@@ -10,7 +10,7 @@ var Cconnect;
 
 function Start () {
 	//set 'Cconnect' to be used as connector to the C# script.
-	Cconnect = GetComponent("GUISerialScript");
+	Cconnect = GetComponent("BluetoothScript");
 }
 
 function Update () {
